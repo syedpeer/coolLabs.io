@@ -19,8 +19,9 @@ module.exports = {
 ],
     themeConfig: {
       logo: '/coollabs.svg',
-      search: 'false',
+      search: false,
       nav: [
+        { text: 'Apps', link: '/apps' },
         { text: 'Github', link: 'https://github.com/coollabsio/' },
         { text: 'Gitlab', link: 'https://gitlab.com/coollabsio/' },
       ]
