@@ -1,0 +1,16 @@
+{
+  "name": "coollabsio",
+  "version": "1.0.0",
+  "description": "coolLabs.io",
+  "repository": "git@github.com:andrasbacsai/coollabs.io.git",
+  "author": "Andras Bacsai",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "devDependencies": {
+    "vuepress": "^1.0.0-alpha.39"
+  }
+}
