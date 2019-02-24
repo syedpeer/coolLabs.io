@@ -1,5 +1,5 @@
 body 
-    font-family 'Miriam Libre' !important
+    font-family $primaryFont !important
 
 .home
     padding 3.6rem 0 0 !important
@@ -19,26 +19,18 @@ body
 
 .content:not(.custom)
     max-width none !important
-    padding 0 !important
+    padding 2rem !important
 
 .navbar  
     border-bottom none !important
-    box-shadow 0 1px 2px 0 black !important
+    box-shadow 0 2px 4px 0 rgba(0,0,0,.05) !important
 
 .navbar .site-name
-    font-weight 400 !important
+    font-weight 600 !important
 
-.nav-link, .repo-link , .nav-links .dropdown-title
+.nav-link, .repo-link , .nav-links .dropdown-title, .sidebar-links
     font-weight 800 !important
+    font-family $secondaryFont
 
-aside.sidebar     
-    background-color #2c3351 !important
-    color white
-    border-right none !important
-
-nav.nav-links
-    border-bottom 1px rgba(139, 217, 79, 0.1) solid !important
-
-.nav-link
-    text-transform uppercase !important
-    font-weight 800 !important
+.page
+    font-family $secondaryFont

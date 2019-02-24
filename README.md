@@ -1,6 +1,6 @@
 ---
 home: true
-footer: Made with ❤️️, ⌨️, 🖱️ and Vuepress 
+footer: Made with ❤️️, ⌨️, 🖱️ and Vuepress by Andras Bacsai
 ---
 
 <section class="bg-coollabs text-white px-2 md:px-0">
@@ -30,14 +30,10 @@ footer: Made with ❤️️, ⌨️, 🖱️ and Vuepress
         </div>
         <div class="w-full mb-4 md:w-1/3 md:mb-0 px-4">
           <h4 class="text-green-darkest text-xl mb-2">🗣 CoolLaboration</h4>
-          <p class="mb-2">We are creating these applications for <strong class="bg-coollabs text-white px-1">you</strong>, do if you have any comment to our existing applications or you have a new idea, but don't know how to start, you can reach to us anytime.</p>
+          <p class="mb-2">We are creating these applications for <strong class="bg-coollabs text-white px-1">you</strong>, so if you have any comment to our existing applications or you have a new idea, but don't know how to start, you can reach to us anytime.</p>
         </div>
-<!--         <div class="w-full mb-4 md:w-1/4 md:mb-0 px-4">
-          <h4 class="text-green-darkest text-xl mb-2">💰 ️️Cost efficient</h4>
-          <p class="mb-2">We strive to be cheap as possible.</p>
-        </div> -->
         <div class="w-full my-4 md:mb-0 px-4 text-center">
-         <a href="/apps" @click.prevent="$router.push('/apps')" class="text-black text-center py-2 px-2 w-full text-coollabs font-bold uppercase text-xl">Check our apps</a>
+         <a href="/apps/" @click.prevent="$router.push('/apps/')" class="text-black text-center py-2 px-2 w-full text-coollabs font-bold uppercase text-sm">Check our apps</a>
          </div>
       </div>
     </div>
