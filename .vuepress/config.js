@@ -1,4 +1,9 @@
+const join = require('path').join
+const tailwindJS = join(__dirname, 'tailwind.js')
 module.exports = {
+    postcss: {
+      plugins: [require('tailwindcss')(tailwindJS), require('autoprefixer')]
+    },
     host: '0.0.0.0',
     title: 'coolLabs',
     head: [
@@ -10,12 +15,7 @@ module.exports = {
             rel: 'stylesheet',
             type: 'text/css',
             href: 'https://fonts.googleapis.com/css?family=Miriam+Libre|Poppins"'
-        }],
-        ['link', {
-          rel: 'stylesheet',
-          type: 'text/css',
-          href: 'https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css'
-      }]
+        }]
     ],
     themeConfig: {
       search: false,
