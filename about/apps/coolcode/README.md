@@ -2,7 +2,7 @@
 prev: false
 next: false
 ---
-# coolCode - under development
+# coolCode - in development
 
 ## About
 A cool browser based code editor environment.
@@ -15,7 +15,6 @@ A cool browser based code editor environment.
     - Server log analytics, like Timber.io
     - User analytics, like Google Analytics
     - User error tracking, like Track.js
-    - etc
 - And deploy your containerized application to Docker Swarm or Kubernetes with one click!
 
 ### All features are developed in house. Why?

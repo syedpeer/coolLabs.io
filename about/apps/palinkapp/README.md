@@ -13,8 +13,8 @@ Currently it is only available in Hungarian language, but will be internationali
 ### [Try the app!](https://palinkapp.coollabs.io/#/)
 
 ## Features
-- Once visited from your phone, it is working offline. You can use it everywhere, without internet connection.
-- You can install it to your Android/Iphone just like a normal application.
+- Once you visited the site, it is working offline without internet connection.
+- You can add it to your home screen and use it like a native/normal mobile application.
 
 ## For devs
 See the [code](https://github.com/coollabsio/palinkapp)

@@ -22,6 +22,7 @@ module.exports = {
       nav: [
         { text: 'Home', link: '/' },
         { text: 'About', link: '/about/vision.html' },
+        { text: 'Applications', link: '/about/apps/' },
         { text: 'Support', link: '/support/' },
         { text: 'Github', link: 'https://github.com/coollabsio/' }
       ],
@@ -54,6 +55,7 @@ function genSidebarConfig (groupA, groupB) {
       title: groupB,
       collapsable: false,
       children: [
+        'apps/',
         'apps/palinkapp/',
         'apps/coolcode/'
       ]

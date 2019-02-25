@@ -5,7 +5,7 @@ next: false
 ---
 # Support
 
-You can find us on any of these platforms:
+You can find us on these platforms:
 
 
 ## [Spectrum chat](https://spectrum.chat/coollabs)
