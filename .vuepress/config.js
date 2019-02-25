@@ -18,12 +18,11 @@ module.exports = {
       }]
     ],
     themeConfig: {
-      logo: '/coollabs.svg',
-      search: false,
+      search: true,
       nav: [
         { text: 'Home', link: '/' },
         { text: 'About', link: '/about/vision.html' },
-        { text: 'Contact', link: '/contact/' },
+        { text: 'Support', link: '/support/' },
         { text: 'Github', link: 'https://github.com/coollabsio/' }
       ],
       sidebar: {

@@ -4,12 +4,12 @@ next: false
 ---
 # Vision
 
-## Lighting fast
+## ⚡ Lighting fast 
 
-## Open source
+## ✌️ Open source 
 
-## CoolLaboration
+## 🗣 CoolLaboration 
 
-## Secure
+## 🔐 Secure 
 
-## Cost efficient
+## 💰 Cost efficient 
