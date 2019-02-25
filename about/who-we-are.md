@@ -18,7 +18,7 @@ We currently have a day-time job, but one day we would like to do this full-time
 
 ## Support us
 
-To create cool applications, we need to <span class="font-extrabold">drink coffee. A LOT!</span>
+To reach this goal and to create cool applications, we need to <span class="font-extrabold">drink coffee. A LOT!</span>
 
 You can support our development by become a Patron!
 <div class="text-center pt-5">

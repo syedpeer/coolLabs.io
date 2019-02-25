@@ -28,6 +28,6 @@ Of course to have a good / efficient application, we need to collect some of you
 
 ## Cost efficient 💰 
 
-Some applications / services are pretty good but overpriced and which are free are always very limited or selling your data.
+Lots of applications / services are pretty good but overpriced and which are free are mostly very limited or misusing your data.
 
-We are continuously trying to be cheap as possible.
+We are continuously trying to be cheaper and cheaper.

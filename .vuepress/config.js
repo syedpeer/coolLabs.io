@@ -23,7 +23,7 @@ module.exports = {
         { text: 'Home', link: '/' },
         { text: 'About', link: '/about/vision.html' },
         { text: 'Applications', link: '/about/apps/' },
-        { text: 'Support', link: '/support/' },
+        { text: 'Contact', link: '/contact/' },
         { text: 'Github', link: 'https://github.com/coollabsio/' }
       ],
       sidebar: {
