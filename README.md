@@ -1,6 +1,6 @@
 ---
 home: true
-footer: Made with ❤️️, ⌨️, 🖱️ and Vuepress by Andras Bacsai
+footer: Made with ⌨️, 🖱️ and Vuepress
 ---
 
 <section class="bg-coollabs text-white px-2 md:px-0">
