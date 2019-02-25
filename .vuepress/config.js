@@ -19,14 +19,15 @@ module.exports = {
     ],
     themeConfig: {
       logo: '/coollabs.svg',
-      search: true,
+      search: false,
       nav: [
-        { text: 'Apps', link: '/apps/' },
-        { text: 'Github', link: 'https://github.com/coollabsio/' },
-        { text: 'Gitlab', link: 'https://gitlab.com/coollabsio/' },
+        { text: 'Home', link: '/' },
+        { text: 'About', link: '/about/vision.html' },
+        { text: 'Contact', link: '/contact/' },
+        { text: 'Github', link: 'https://github.com/coollabsio/' }
       ],
       sidebar: {
-        '/apps/': genSidebarConfig('Applications')
+        '/about/': genSidebarConfig('About us', 'Applications')
       }
     },
     plugins: {
@@ -40,16 +41,23 @@ module.exports = {
       }
   }
   
-function genSidebarConfig (title) {
+function genSidebarConfig (groupA, groupB) {
   return [
     {
-      title,
+      title: groupA,
       collapsable: false,
       children: [
-        '',
-        'coolcode/',
-        'palinkapp/'
+        'vision',
+        'who-we-are'
       ]
-    }
+    },
+    {
+      title: groupB,
+      collapsable: false,
+      children: [
+        'apps/palinkapp/',
+        'apps/coolcode/'
+      ]
+}
   ]
 }
