@@ -18,7 +18,7 @@ module.exports = {
       }]
     ],
     themeConfig: {
-      search: true,
+      search: false,
       nav: [
         { text: 'Home', link: '/' },
         { text: 'About', link: '/about/vision.html' },
