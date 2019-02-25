@@ -20,4 +20,5 @@ A cool browser based code editor environment.
 ### All features are developed in house. Why?
 
 Most of the services mentioned as example, are pretty good, but in most cases there is a catch, eg: price / privacy.
-We have no.
+
+We have no such thing.
