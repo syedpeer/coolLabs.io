@@ -3,15 +3,10 @@ prev: false
 next: false
 
 ---
-# Contact us
+# Contact the cool fellows @
 
-You can easly find us on these platforms:
+### [Spectrum](https://spectrum.chat/coollabs) - Forum/chat
 
-## [Spectrum chat](https://spectrum.chat/coollabs)
-If you prefer forums and chat, choose this one.
+### [Discord](https://discord.gg/bvS3WhR) - Chat
 
-## [Discord chat](https://discord.gg/bvS3WhR)
-If you prefer a cool chat, this is your choice.
-
-## [Github](https://github.com/coollabsio/coolLabs.io)
-We do not need to explain this one. 
+### [Github](https://github.com/coollabsio/coolLabs.io) - Github is github
