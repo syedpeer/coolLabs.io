@@ -28,7 +28,16 @@ module.exports = {
       sidebar: {
         '/apps/': genSidebarConfig('Applications')
       }
-    }
+    },
+    plugins: {
+      '@vuepress/pwa': {
+            serviceWorker: true,
+            updatePopup: {
+              message: "New content is available.",
+              buttonText: "Refresh"
+            }
+          }
+      }
   }
   
 function genSidebarConfig (title) {
