@@ -32,7 +32,7 @@ module.exports = {
     },
     plugins: {
       '@vuepress/pwa': {
-            serviceWorker: false,
+            serviceWorker: true,
             updatePopup: {
               message: "New content is available.",
               buttonText: "Refresh"
