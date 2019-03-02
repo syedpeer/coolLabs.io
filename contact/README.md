@@ -9,4 +9,4 @@ next: false
 
 ### [Discord](https://discord.gg/bvS3WhR) - Chat
 
-### [Github](https://github.com/coollabsio/coolLabs.io) - Github is github
+### [Github](https://github.com/coollabsio) - Github is github
