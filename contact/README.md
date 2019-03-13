@@ -3,10 +3,12 @@ prev: false
 next: false
 
 ---
-# Contact the cool fellows @
+# Talk with the cool fellows
 
-### [Spectrum](https://spectrum.chat/coollabs) - Forum/chat
+Feel free to contact us at:
 
-### [Discord](https://discord.gg/bvS3WhR) - Chat
+- [Spectrum](https://spectrum.chat/coollabs) - Forum/chat
 
-### [Github](https://github.com/coollabsio) - Github is github
+- [Discord](https://discord.gg/bvS3WhR) - Chat
+
+- [Github](https://github.com/coollabsio) - Github is github
