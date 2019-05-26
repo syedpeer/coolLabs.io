@@ -17,4 +17,4 @@ Currently it is only available in Hungarian language, but will be internationali
 - You can add it to your home screen and use it like a native/normal mobile application.
 
 ## For devs
-See the [code](https://github.com/coollabsio/palinkapp)
+See the [code](https://github.com/coollabsio/palinkapp.coollabs.io)
