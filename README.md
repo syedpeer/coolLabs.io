@@ -21,7 +21,7 @@ footer: Made with ⌨️, 🖱️ and Vuepress
 <!--       <h4 class="text-center text-lg mb-4 font-sans text-grey-dark">Big words coming, beware.</h4> -->
       <div class="flex flex-wrap pt-6">
         <div class="w-full mb-4 md:w-1/3 md:mb-0 px-4">
-          <h4 class="text-green-darkest text-xl mb-2">⚡ Fast as lighting</h4>
+          <h4 class="text-green-darkest text-xl mb-2">⚡ Fast as lightning</h4>
           <p class="mb-2">We are using the latest web technologies to create the fastest applications as possible. It's pretty hard to keep up with the latest trends and technologies, but we are always trying to.</p>
         </div>
         <div class="w-full mb-4 md:w-1/3 md:mb-0 px-4">
