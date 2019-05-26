@@ -57,6 +57,7 @@ function genSidebarConfig (groupA, groupB) {
       children: [
         'apps/',
         'apps/palinkapp/',
+        'apps/coolnote/',
         'apps/coolcode/'
       ]
 }
