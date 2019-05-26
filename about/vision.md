@@ -6,28 +6,24 @@ next: false
 
 ## Lighting fast ⚡
 
-We are developing our apps with high focus on usability, that's we are using the latest technologies available to make it happen.
+We are using the latest web technologies to create the fastest applications as possible. It's pretty hard to keep up with the latest trends and technologies, but we are always trying to.
 
 ## Open source ✌️
 
-We ❤️️ open source and that's why we open up as much of our applications code as possible to the world, but as we would like to do this awesome fun full-time, we have to make some of our code private. After several discussions we think this can work out in long term.
+We ❤️️ open source and that's why we open source as much of our applications code as possible to the world, but as we would like to do this awesome fun full-time, so unfortunately we have to make some of our code private at the moment (currently our backend is private).
 
 ## CoolLaboration 🗣 
 
 An application without users is not an application, it is just some random spaghetti code. 
 
-We are creating the applications for the people, for you, that's why we rely on your ideas / suggestions. We are open for any kind of comment on our existing applications or for new application ideas.
+We are creating these applications for <span class="bg-coollabs text-white px-1">you</span>, so if you have any comment to our existing applications or you have a new idea, but don't know how to start, you can <a href="/contact/" @click.prevent="$router.push('/contact')" class="text-coollabs-dark hover:text-green underline">reach to us anytime.</a>
 
 ## Secure 🔐 
 
-Security is the most important thing in this century. We are living in a world where data is the most valuable product. That's why we think your data should be **only** your property. 
-
-<div class="text-center text-bold font-mono py-5">We are not selling your data to any 3rd party!</div>
-
-Of course to have a good / efficient application, we need to collect some of your data, but only for our internal usage and anonymously to help our apps evolve.
+Security is the most important thing in this century. We are living in a world where data is the most valuable product. That's why we think your data should be **only** your property. That is our main point when we publish our applications.
 
 ## Cost efficient 💰 
 
 Lots of applications / services are pretty good but overpriced and which are free are mostly very limited or misusing your data.
 
-We are continuously trying to be cheaper and cheaper.
+We are continuously trying to be as good as those, without the negative things.
