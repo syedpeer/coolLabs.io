@@ -16,7 +16,7 @@ We ❤️️ open source and that's why we open source as much of our applicatio
 
 An application without users is not an application, it is just some random spaghetti code. 
 
-We are creating these applications for <span class="bg-coollabs text-white px-1">you</span>, so if you have any comment to our existing applications or you have a new idea, but don't know how to start, you can <a href="/contact/" class="text-coollabs-dark hover:text-green underline">reach to us anytime.</a>
+We are creating these applications for <span class="bg-coollabs text-white px-1">you</span>, so if you have any comment to our existing applications or you have a new idea, but don't know how to start, you can <a href="/contact/" class="text-coollabs-dark hover:text-green underline">contact us anytime.</a>
 
 ## Secure 🔐 
 
