@@ -4,7 +4,7 @@ next: false
 ---
 # The Vision 🚀
 
-## Lighting fast ⚡
+## Fast as lightning ⚡
 
 We are using the latest web technologies to create the fastest applications as possible. It's pretty hard to keep up with the latest trends and technologies, but we are always trying to.
 
