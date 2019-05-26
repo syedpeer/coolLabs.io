@@ -4,5 +4,5 @@ next: false
 ---
 # Who we are? 👩‍💻👨‍💻
 
-We are just some random developer guys from Hungary, doing this in our free time for fun.
+We are just some random developers from Hungary, coding in our free time, next to our day-time job.
 <div class="text-center text-3xl py-10">But doing this in full time will be 💥</div>
