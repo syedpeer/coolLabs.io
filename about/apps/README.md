@@ -2,11 +2,12 @@
 prev: false
 next: false
 ---
-# Library 📚
+# Application Library 📚
 
 
 
-| Application Name| Status|
-| ------------- |:-------------:|
-| [PalinkApp](/about/apps/palinkapp/)| Open Sourced |
-| [coolCode](/about/apps/coolcode/)| In Development |
+| Application Name| Status| Type|
+| ------------- |:-------------:|:-------------:|
+| [PalinkApp](/about/apps/palinkapp/)| Pusblished | Open source
+| [coolNote](/about/apps/coolnote/)| Pusblished | Open source
+| [coolCode](/about/apps/coolcode/)| Currently orbiting in the ether somewhere  | NA
