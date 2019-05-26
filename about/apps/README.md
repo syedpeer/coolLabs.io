@@ -8,6 +8,6 @@ next: false
 
 | Application Name| Status| Type|
 | ------------- |:-------------:|:-------------:|
-| [PalinkApp](/about/apps/palinkapp/)| Pusblished | Open source
-| [coolNote](/about/apps/coolnote/)| Pusblished | Open source
+| [PalinkApp](/about/apps/palinkapp/)| Published | Open source
+| [coolNote](/about/apps/coolnote/)| Published | Open source
 | [coolCode](/about/apps/coolcode/)| Currently orbiting in the ether somewhere  | NA
