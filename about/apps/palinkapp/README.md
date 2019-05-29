@@ -3,7 +3,7 @@ prev: false
 next: false
 ---
 
-# PalinkApp - OSS
+# PalinkApp
 
 ## About
 Pálinka alcohol degree calculator. You can easily calculate the needed dilution for your home made [Pálinka](https://en.wikipedia.org/wiki/P%C3%A1linka).

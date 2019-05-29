@@ -6,8 +6,8 @@ next: false
 
 
 
-| Application Name| Status| Type|
-| ------------- |:-------------:|:-------------:|
-| [PalinkApp](/about/apps/palinkapp/)| Published | Open source
-| [coolNote](/about/apps/coolnote/)| Published | Open source
-| [coolCode](/about/apps/coolcode/)| Currently orbiting in the ether somewhere  | NA
+| Name| Description| Type| Status|
+| ------------- |:-------------:|:-------------:|:-------------:|
+| [PalinkApp](/about/apps/palinkapp/)| Palinka alcohol by volume calculator  | Open sourced | In production
+| [coolNote](/about/apps/coolnote/)| A simple note taking application  | Open sourced | In production
+| [coolCode](/about/apps/coolcode/)| A cool browser based code editor environment. | NA | In development
