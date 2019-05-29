@@ -3,7 +3,7 @@ prev: false
 next: false
 ---
 
-#  coolNote - OSS
+#  coolNote
 
 ## About
 A simple, but cool note / todo taking application.
