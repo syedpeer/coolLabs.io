@@ -2,7 +2,7 @@
 prev: false
 next: false
 ---
-# coolCode - in development
+# coolCode 
 
 ## About
 A cool browser based code editor environment.
