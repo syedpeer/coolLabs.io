@@ -10,4 +10,4 @@ next: false
 | ------------- |:-------------:|:-------------:|:-------------:|
 | [PalinkApp](/about/apps/palinkapp/)| Palinka alcohol by volume calculator  | Open sourced | In production
 | [coolNote](/about/apps/coolnote/)| A simple note taking application  | Open sourced | In production
-| [coolCode](/about/apps/coolcode/)| A cool open source code editor environment.  | NA | In development
+| [coolCode](/about/apps/coolcode/)| A cool browser based code editor environment. | NA | In development
