@@ -8,8 +8,6 @@ next: false
 ## About
 Pálinka alcohol degree calculator. You can easily calculate the needed dilution for your home made [Pálinka](https://en.wikipedia.org/wiki/P%C3%A1linka).
 
-Currently it is only available in Hungarian language, but will be internationalized soon.
-
 ### [Try the app!](https://palinkapp.coollabs.io/#/)
 
 ## Features
