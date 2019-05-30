@@ -4,10 +4,8 @@ next: false
 ---
 # Application Library 📚
 
+> [PalinkApp](/about/apps/palinkapp/) - Palinka alcohol by volume calculator - [open source](https://github.com/coollabsio/palinkapp.coollabs.io)
 
+> [coolNote](/about/apps/coolnote/) - A simple note / todo taking application - [open source](https://github.com/coollabsio/note.coollabs.io)
 
-| Name| Description| Type| Status|
-| ------------- |:-------------:|:-------------:|:-------------:|
-| [PalinkApp](/about/apps/palinkapp/)| Palinka alcohol by volume calculator  | Open sourced | In production
-| [coolNote](/about/apps/coolnote/)| A simple note taking application  | Open sourced | In production
-| [coolCode](/about/apps/coolcode/)| A cool browser based code editor environment. | NA | In development
+> [coolCode](/about/apps/coolcode/) - A cool browser based code editor environment - in development
