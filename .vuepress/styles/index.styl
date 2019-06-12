@@ -1,9 +1,24 @@
-@tailwind preflight;
+@tailwind base;
 @tailwind components;
 @tailwind utilities;
-    
+
 body 
-    font-family $primaryFont !important
+    font-family $primaryFont
+h1 
+    font-size 2em
+    font-weight 600
+h2
+    font-size 1.65rem
+    font-weight 600
+h3
+    font-size 1.35rem
+    font-weight 600
+ul
+    list-style revert
+    padding-left 1.2em
+
+a, p a code 
+    color $accentColor
 
 .home
     padding 3.6rem 0 0 !important
@@ -33,7 +48,6 @@ body
 
 .navbar  
     border-bottom none !important
-
     background-color $backgroundColor !important
 
 .navbar .links
@@ -48,6 +62,7 @@ body
     
 .nav-links a:hover
     color white !important
+    
 .navbar .site-name
     font-weight 600 !important
     color white !important

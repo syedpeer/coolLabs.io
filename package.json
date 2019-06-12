@@ -1,7 +1,7 @@
 {
-  "name": "coollabsio",
-  "version": "1.0.0",
-  "description": "coolLabs.io",
+  "name": "coollabs.io",
+  "version": "0.2.0",
+  "description": "Fabricating cool applications with your coollaboration!",
   "repository": "git@github.com:andrasbacsai/coollabs.io.git",
   "author": "Andras Bacsai",
   "license": "MIT",
@@ -11,8 +11,7 @@
     "build": "vuepress build"
   },
   "devDependencies": {
-    "@vuepress/plugin-pwa": "^1.0.0-alpha.0",
-    "tailwindcss": "^0.7.4",
-    "vuepress": "^1.0.0-alpha.39"
+    "@vuepress/plugin-pwa": "^1.0.0-rc.1",
+    "tailwindcss": "^1.0.4"
   }
 }
