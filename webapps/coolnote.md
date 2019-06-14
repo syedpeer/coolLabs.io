@@ -8,6 +8,9 @@ next: false
 ## About
 A simple, but cool note / todo taking application.
 
+## Similar app
+- Google Keep
+
 ## Features
 - It replaces a piece of paper on your desk.
 

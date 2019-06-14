@@ -67,7 +67,9 @@ function genAboutSidebar (group) {
         collapsable: true,
         children: [
           'upcoming/',
-          'upcoming/coolcode'
+          'upcoming/coolcode',
+          'upcoming/coolpdc',
+          'upcoming/coolanalytics'
         ]
       }
     ]

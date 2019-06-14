@@ -23,6 +23,8 @@ We never sell it to any 3rd party - that is not our business model.
 
 ## Coollaborative
 Everybody could have a cool idea, we are open to [discuss it!](/contact/)
+## TODO HERE:D
+
 
 ## Alternative to 'big five'
 > Did you know that most of the apps you are using are in the hand of the [big five](https://gizmodo.com/i-cut-the-big-five-tech-giants-from-my-life-it-was-hel-1831304194) directly or indirectly? 

@@ -2,4 +2,5 @@
 
 With smart and hard work!
 
-You can read our blog on [dev.to](https://dev.to)
+You can read it in our blog posts on [dev.to](https://dev.to)
+## TODO HERE:D
