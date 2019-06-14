@@ -42,10 +42,10 @@ footer: Made with ⌨️, 🖱️ and Vuepress
         </div>
         <div class="w-full mb-4 md:w-1/3 md:mb-0 px-4">
           <h4 class="text-green-900 text-2xl mb-2 font-semibold">👋 Alternative to big five</h4>
-          <p class="mb-2"><a href="/contact/" @click.prevent="$router.push('/contact')" class="text-coollabs-dark hover:text-green-600 underline">How?</a></p>
+          <p class="mb-2"><a href="/about/the-vision.html#alternative-to-big-five" @click.prevent="$router.push('/about/the-vision.html#alternative-to-big-five')" class="text-coollabs-dark hover:text-green-600 underline">How?</a></p>
         </div>
         <div class="w-full my-4 md:mb-0 px-4 text-center">
-         <a href="/about/about.html" @click.prevent="$router.push('/about/about.html')" class="bg-coollabs rounded hover:bg-gray-100 hover:text-green-600 text-white px-1 text-center py-2 px-2 w-full uppercase text-base">Interested in more details?</a>
+         <a href="/about/the-vision.html" @click.prevent="$router.push('/about/the-vision.html')" class="bg-coollabs rounded hover:bg-gray-100 hover:text-green-600 text-white px-1 text-center py-2 px-2 w-full uppercase text-base">Interested in more details?</a>
          </div>
       </div>
     </div>
