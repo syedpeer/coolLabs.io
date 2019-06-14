@@ -1,10 +1,8 @@
----
-prev: false
-next: false
----
 # Who we are? 👩‍💻👨‍💻
 
-We are just some random developers from Hungary, coding in our free time, next to our day-time job.
-<div class="text-center text-3xl py-10">But doing this in full time will be 💥</div>
+We are just some random developers from Hungary with a simple [vision](the-vision.html).
 
-You can help us to reach this goal by supporting our work via [Paypal](https://paypal.me/andrasbacsai).
+Unfortunately, we cannot do this in full-time at the moment. We have day-time job.
+<div class="text-3xl py-10 text-center">But when we could, it will be 💥</div>
+
+You can help us to reach it by supporting our work via [Paypal](https://paypal.me/andrasbacsai).

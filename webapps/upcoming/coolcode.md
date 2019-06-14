@@ -17,8 +17,9 @@ A cool browser based code editor environment.
     - User error tracking, like Track.js
 - And deploy your containerized application to Docker Swarm or Kubernetes with one click!
 
-### All features are developed in house. Why?
+<!-- ### All features are developed in house. Why?
 
 Most of the services mentioned as example, are pretty good, but in most cases there is a catch, eg: price / privacy.
 
 We have no such thing.
+ -->

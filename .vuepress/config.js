@@ -18,13 +18,14 @@ module.exports = {
         search: false,
         nav: [
             { text: 'Home', link: '/' },
-            { text: 'About', link: '/about/vision.html' },
-            { text: 'Applications', link: '/about/apps/' },
+            { text: 'About', link: '/about/the-vision.html' },
+            { text: 'Application Library 📚', link: '/webapps/' },
             { text: 'Contact', link: '/contact/' },
             { text: 'Github', link: 'https://github.com/coollabsio/' }
         ],
         sidebar: {
-            '/about/': genSidebarConfig('About us', 'Applications')
+            '/about/': genAboutSidebar('About'),
+            '/webapps/': genWebappsSidebar('Application Library 📚', 'Upcoming Apps 📢'),
       }
     },
     plugins: {
@@ -37,25 +38,37 @@ module.exports = {
           }
 }
 }
-function genSidebarConfig (groupA, groupB) {
+function genAboutSidebar (group) {
     return [
       {
-        title: groupA,
+        title: group,
         collapsable: false,
         children: [
-          'vision',
+          'the-vision',
+          'how-we-doing-it',
           'who-we-are'
+        ]
+      }
+    ]
+  }
+  function genWebappsSidebar (group, groupb) {
+    return [
+      {
+        title: group,
+        collapsable: false,
+        children: [
+          '',
+          'palinkapp',
+          'coolnote'
         ]
       },
       {
-        title: groupB,
-        collapsable: false,
+        title: groupb,
+        collapsable: true,
         children: [
-          'apps/',
-          'apps/palinkapp/',
-          'apps/coolnote/',
-          'apps/coolcode/'
+          'upcoming/',
+          'upcoming/coolcode'
         ]
-  }
+      }
     ]
   }

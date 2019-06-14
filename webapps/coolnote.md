@@ -3,12 +3,10 @@ prev: false
 next: false
 ---
 
-#  coolNote
+#  coolNote <span class="text-xl">[Try it!](https://note.coollabs.io)</span>
 
 ## About
 A simple, but cool note / todo taking application.
-
-### [Try the app!](https://note.coollabs.io)
 
 ## Features
 - It replaces a piece of paper on your desk.

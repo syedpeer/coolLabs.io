@@ -7,8 +7,6 @@ next: false
 
 Feel free to contact us at:
 
-- [Spectrum](https://spectrum.chat/coollabs) - Forum/chat
-
-- [Discord](https://discord.gg/bvS3WhR) - Chat
-
-- [Github](https://github.com/coollabsio) - Github is github
+<!-- - [Spectrum](https://spectrum.chat/coollabs) - Forum/chat -->
+- [Twitter](https://twitter.com/coollabsio)
+- [Discord](https://discord.gg/bvS3WhR)

@@ -16,24 +16,36 @@ footer: Made with ⌨️, 🖱️ and Vuepress
 </section>
 
  <section class="bg-gray-100 border-b">
-    <div class="container py-12 mx-auto">
-      <!-- <h3 class="text-center mb-4 text-2xl">Features</h3> -->
-<!--       <h4 class="text-center text-lg mb-4 font-sans text-grey-dark">Big words coming, beware.</h4> -->
-      <div class="flex flex-wrap pt-6">
+    <div class="container py-8 mx-auto">
+      <div class="flex flex-wrap pt-6 ">
         <div class="w-full mb-4 md:w-1/3 md:mb-0 px-4">
-          <h4 class="text-green-900 text-xl mb-2 font-semibold">⚡ Fast as lightning</h4>
-          <p class="mb-2">We are using the latest web technologies to create the fastest applications as possible. It's pretty hard to keep up with the latest trends and technologies, but we are always trying to.</p>
+          <h4 class="text-green-900 text-2xl mb-2 font-semibold">⚡ Fast as lightning</h4>
+          <p class="mb-2">Our applications are living on the edge of the web technologies to make them the fastest as possible.</p>
         </div>
         <div class="w-full mb-4 md:w-1/3 md:mb-0 px-4">
-          <h4 class="text-green-900 text-xl mb-2 font-semibold">✌️ Open source</h4>
-          <p class="mb-2">We ❤️️ open source, the community and what it stands for, so we are trying to open source the most of our applications.</p>
+          <h4 class="text-green-900 text-2xl mb-2 font-semibold">✌️ Open source</h4>
+          <p class="mb-2">We ❤️️ open source, so we are publising as much of our code as possible.</p>
         </div>
         <div class="w-full mb-4 md:w-1/3 md:mb-0 px-4">
-          <h4 class="text-green-900 text-xl mb-2 font-semibold">🗣 CoolLaboration</h4>
-          <p class="mb-2">We are creating these applications for <span class="bg-coollabs text-white px-1">you</span>, so if you have any comment to our existing applications or you have a new idea, but don't know how to start, you can <a href="/contact/" @click.prevent="$router.push('/contact')" class="text-coollabs-dark hover:text-green-600 underline">contact us anytime.</a></p>
+          <h4 class="text-green-900 text-2xl mb-2 font-semibold">🗣 CoolLaboration</h4>
+          <p class="mb-2">Our applications are open for discussion. Do not hesitate to <a href="/contact/" @click.prevent="$router.push('/contact')" class="text-coollabs-dark hover:text-green-600 underline">contact us anytime.</a></p>
+        </div>
+      </div>
+      <div class="flex flex-wrap md:pt-16">
+        <div class="w-full mb-4 md:w-1/3 md:mb-0 px-4">
+          <h4 class="text-green-900 text-2xl mb-2 font-semibold">🔐 Security</h4>
+          <p class="mb-2">Is a serious part of the internet, so we take it seriously!</p>
+        </div>
+        <div class="w-full mb-4 md:w-1/3 md:mb-0 px-4">
+          <h4 class="text-green-900 text-2xl mb-2 font-semibold">💾 Data privacy</h4>
+          <p class="mb-2">We only store data to improve our applications. You own your data, we never sell it, that is not our business model.</p>
+        </div>
+        <div class="w-full mb-4 md:w-1/3 md:mb-0 px-4">
+          <h4 class="text-green-900 text-2xl mb-2 font-semibold">👋 Alternative to big five</h4>
+          <p class="mb-2"><a href="/contact/" @click.prevent="$router.push('/contact')" class="text-coollabs-dark hover:text-green-600 underline">How?</a></p>
         </div>
         <div class="w-full my-4 md:mb-0 px-4 text-center">
-         <a href="/about/vision.html" @click.prevent="$router.push('/about/vision.html')" class="bg-coollabs text-white px-1 text-center py-2 px-2 w-full uppercase text-base">Read more!</a>
+         <a href="/about/about.html" @click.prevent="$router.push('/about/about.html')" class="bg-coollabs rounded hover:bg-gray-100 hover:text-green-600 text-white px-1 text-center py-2 px-2 w-full uppercase text-base">Interested in more details?</a>
          </div>
       </div>
     </div>

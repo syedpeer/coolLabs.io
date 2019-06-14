@@ -3,12 +3,10 @@ prev: false
 next: false
 ---
 
-# PalinkApp
+# PalinkApp <span class="text-xl">[Try it!](https://palinkapp.coollabs.io/#/)</span>
 
 ## About
 Pálinka alcohol degree calculator. You can easily calculate the needed dilution for your home made [Pálinka](https://en.wikipedia.org/wiki/P%C3%A1linka).
-
-### [Try the app!](https://palinkapp.coollabs.io/#/)
 
 ## Features
 - Once you visited the site, it is working offline without internet connection.
