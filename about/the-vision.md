@@ -1,40 +1,48 @@
 # The Vision 🚀
 
-Our vision is to make:
-- [Lightning Fast](#lightning-fast)
-- [Secure](#secure)
-- [Data Protected](#data-protected)
-- [Coollaborative](#coollaborative)
-- [Alternative to 'big five'](#alternative-to-big-five)
-- and [Cool](#cool)
+### Is to compose:
+<hr/>
 
-applications / services for you, to have an option to choose!
+- [Lightning Fast ⚡](#lightning-fast-⚡)
+- [Alternative 👋](#alternative-👋)
+- [Open Sourced ✌️](#open-sourced-✌%EF%B8%8F)
+- [Secure 🔐](#secure-🔐)
+- [Data Protected 💾](#data-protected-💾)
+- [Coollaborative 🗣](#coollaborative-🗣)
+- [Pretty Cool 👌](#pretty-cool-👌)
 
-## Lightning Fast
-All of our applications are [Progressive Web Applications](https://en.wikipedia.org/wiki/Progressive_web_applications), which makes them a lot faster, reliable and it can be used on any platform independently, like a native application. That's why the development process is way easier/faster than making separate application for each platform.
+applications & services for you!
 
-## Secure
-Security best practices are applied to all of our applications.
+## Lightning Fast ⚡
+All of our applications are [Progressive Web Applications](https://en.wikipedia.org/wiki/Progressive_web_applications), which makes them a lot faster, reliable and delivers the same user experience on any platforms. It also help us to deliver new features and fixes faster and cooler.
 
-## Data Protected
+## Alternative 👋
+One of our main focus is to create a [place](/webapps/upcoming/coolbox.html) where you can find all of your essential and everyday applications without any data concerns.
+
+::: danger Did you know?
+That most of the applications you are using are in the hand of [~5 companies](https://gizmodo.com/i-cut-the-big-five-tech-giants-from-my-life-it-was-hel-1831304194), directly or indirectly?
+And you are giving them your personal data in exchange when you are using them?
+:::
+
+<div class="text-center py-5 font-bold text-xl">
+    That's why we are working hard to give you an alternative of these applications!
+</div>
+
+## Open Sourced ✌️
+We ❤️️ open source, so we are publising as much of our code as possible.
+
+## Secure 🔐
+Security is a serious thing, so we take it seriously!
+
+## Data Protected 💾
 The data we collect is only used to improve the application itself. 
 
 We never sell it to any 3rd party - that is not our business model.
 
-## Coollaborative
-Everybody could have a cool idea, we are open to [discuss it!](/contact/)
-## TODO HERE:D
+## Coollaborative 🗣
 
+Every user could and should shape our applications to make them perfect! [Contact us anytime](/contact/) if you have any idea.
 
-## Alternative to 'big five'
-> Did you know that most of the apps you are using are in the hand of the [big five](https://gizmodo.com/i-cut-the-big-five-tech-giants-from-my-life-it-was-hel-1831304194) directly or indirectly? 
+## Pretty Cool 👌
 
-You are giving your data for free to Amazon, Google or Microsoft when you are using your favourite daily application.
-
-<div class="text-center py-10 font-bold">
-    We are working hard to give you an alternative of those applications to choose from with similar user experience but without data concerns.
-</div>
-
-## Cool
-
-Our applications are just cool, that's it 😎.
+Our apps cool, pretty cool, that's it 😎.

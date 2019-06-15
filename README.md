@@ -34,15 +34,15 @@ footer: Made with ⌨️, 🖱️ and Vuepress
       <div class="flex flex-wrap md:pt-16">
         <div class="w-full mb-4 md:w-1/3 md:mb-0 px-4">
           <h4 class="text-green-900 text-2xl mb-2 font-semibold">🔐 Security</h4>
-          <p class="mb-2">Is a serious part of the internet, so we take it seriously!</p>
+          <p class="mb-2">Security is a serious thing, so we take it seriously!</p>
         </div>
         <div class="w-full mb-4 md:w-1/3 md:mb-0 px-4">
           <h4 class="text-green-900 text-2xl mb-2 font-semibold">💾 Data privacy</h4>
           <p class="mb-2">We only store data to improve our applications. You own your data, we never sell it, that is not our business model.</p>
         </div>
         <div class="w-full mb-4 md:w-1/3 md:mb-0 px-4">
-          <h4 class="text-green-900 text-2xl mb-2 font-semibold">👋 Alternative to big five</h4>
-          <p class="mb-2"><a href="/about/the-vision.html#alternative-to-big-five" @click.prevent="$router.push('/about/the-vision.html#alternative-to-big-five')" class="text-coollabs-dark hover:text-green-600 underline">How?</a></p>
+          <h4 class="text-green-900 text-2xl mb-2 font-semibold">👋 Give you an alternative</h4>
+          <p class="mb-2"><a href="/about/the-vision.html#alternative-👋" @click.prevent="$router.push('/about/the-vision.html#alternative-👋')" class="text-coollabs-dark hover:text-green-600 underline">How?</a></p>
         </div>
         <div class="w-full my-4 md:mb-0 px-4 text-center">
          <a href="/about/the-vision.html" @click.prevent="$router.push('/about/the-vision.html')" class="bg-coollabs rounded hover:bg-gray-100 hover:text-green-600 text-white px-1 text-center py-2 px-2 w-full uppercase text-base">Interested in more details?</a>

@@ -64,9 +64,10 @@ function genAboutSidebar (group) {
       },
       {
         title: groupb,
-        collapsable: true,
+        collapsable: false,
         children: [
           'upcoming/',
+          'upcoming/coolarmory',
           'upcoming/coolcode',
           'upcoming/coolpdc',
           'upcoming/coolanalytics'
