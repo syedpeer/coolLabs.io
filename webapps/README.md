@@ -1,10 +1,5 @@
----
-prev: false
-next: false
----
-# Overview
+# Published Applications 🎉
 
-> [PalinkApp](palinkapp.html) - Palinka alcohol by volume calculator
-
-> [coolNote](coolnote.html) - A simple note / todo taking application
+- [PalinkApp](details/palinkapp.html) - Palinka alcohol by volume calculator
+- [coolNote](details/coolnote.html) - A simple note / todo taking application
 

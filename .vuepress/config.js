@@ -25,7 +25,7 @@ module.exports = {
         ],
         sidebar: {
             '/about/': genAboutSidebar('About'),
-            '/webapps/': genWebappsSidebar('Application Library 📚', 'Upcoming Apps 📢'),
+            '/webapps/': genWebappsSidebar('Application Library 📚'),
       }
     },
     plugins: {
@@ -51,26 +51,15 @@ function genAboutSidebar (group) {
       }
     ]
   }
-  function genWebappsSidebar (group, groupb) {
+  function genWebappsSidebar (group) {
     return [
       {
         title: group,
         collapsable: false,
+        sidebarDepth: 1,
         children: [
           '',
-          'palinkapp',
-          'coolnote'
-        ]
-      },
-      {
-        title: groupb,
-        collapsable: false,
-        children: [
-          'upcoming/',
-          'upcoming/coolarmory',
-          'upcoming/coolcode',
-          'upcoming/coolpdc',
-          'upcoming/coolanalytics'
+          'upcoming',
         ]
       }
     ]
