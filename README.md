@@ -13,16 +13,38 @@ footer: Made with ⌨️, 🖱️ and Vuepress
         </div>
         <div class="w-1/5"></div>
       </div>
-      <div class="flex py-3">
-        <a href="/webapps/" @click.prevent="$router.push('/webapps/')" class="mx-auto rounded bg-coollabs hover:bg-gray-100 hover:text-black text-white px-1 text-center py-2 px-2 uppercase text-xl">Check the apps ✨</a>
-      </div>
 </section>
-<section class="bg-white">
-    <div class="container mx-auto px-4 pt-12 pb-6 ">
+
+ <section class="bg-gray-100 border-b">
+    <div class="container py-12 mx-auto">
+      <!-- <h3 class="text-center mb-4 text-2xl">Features</h3> -->
+<!--       <h4 class="text-center text-lg mb-4 font-sans text-grey-dark">Big words coming, beware.</h4> -->
+      <div class="flex flex-wrap pt-6">
+        <div class="w-full mb-4 md:w-1/3 md:mb-0 px-4">
+          <h4 class="text-green-900 text-xl mb-2 font-semibold">⚡ Fast as lightning</h4>
+          <p class="mb-2">All of our applications are <a href="https://en.wikipedia.org/wiki/Progressive_web_applications">Progressive Web Applications</a>, which makes them a lot faster, reliable and delivers the same user experience on any platforms. It also help us to deliver new features and fixes faster.</p>
+        </div>
+        <div class="w-full mb-4 md:w-1/3 md:mb-0 px-4">
+          <h4 class="text-green-900 text-xl mb-2 font-semibold">✌️ Open source</h4>
+          <p class="mb-2">We ❤️️ open source, the community and what it stands for, so we are trying to open source the most of our applications.</p>
+        </div>
+        <div class="w-full mb-4 md:w-1/3 md:mb-0 px-4">
+          <h4 class="text-green-900 text-xl mb-2 font-semibold">🗣 CoolLaboration</h4>
+          <p class="mb-2">Every user could and should shape our applications to make them perfect! <a href="/contact" @click.prevent="$router.push('/contact')">Contact us anytime</a> if you have any spark.</p>
+        </div>
+        <div class="w-full my-4 md:mb-0 px-4 text-center">
+         <a href="/about/vision.html" @click.prevent="$router.push('/about/vision.html')" class="bg-coollabs text-white px-1 text-center py-2 px-2 w-full uppercase text-base">Read more!</a>
+         </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="bg-white">
+    <div class="container mx-auto px-4 pt-12 pb-8 ">
         <h3 class="text-center mb-4 text-2xl font-semibold">Do you know how we are working?</h3>
         <div class="flex justify-center">
-        <img src="/programming.svg" class="" width="500" alt="a guy using too much displays, that's sure">
+        <img src="/programming.svg" class="px-10" width="800"  alt="a guy using too much displays, that's sure">
         </div>
-        <h3 class="text-center text-base font-sans text-gray-500 font-semibold ">Like this. Incredible, right?</h3>
+        <h3 class="text-center text-base my-4 font-sans text-gray-500 font-semibold ">Like this. Incredible, right?</h3>
     </div>
 </section>
