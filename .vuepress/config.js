@@ -71,6 +71,7 @@ function genWebappsSidebar (groupa, groupb) {
         children: [
           'upcoming/',
           'upcoming/coolpdc',
+          'upcoming/coolcalendar',
           'upcoming/coolcode',
           'upcoming/coolanalytics'
         ]
