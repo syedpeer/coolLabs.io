@@ -16,7 +16,7 @@ module.exports = {
     ],
     themeConfig: {
         search: false,
-        logo: '/coollabs.svg',
+/*         logo: '/coollabs.svg', */
         nav: [
             { text: 'Home 🏠', link: '/' },
             { text: 'Application Library 📚', link: '/webapps/published/' },
