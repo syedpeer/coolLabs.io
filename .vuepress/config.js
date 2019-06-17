@@ -16,15 +16,18 @@ module.exports = {
     ],
     themeConfig: {
         search: false,
+        logo: '/coollabs.svg',
         nav: [
-            { text: 'Home', link: '/' },
-            { text: 'About', link: '/about/vision.html' },
-            { text: 'Applications', link: '/about/apps/' },
-            { text: 'Contact', link: '/contact/' },
+            { text: 'Home 🏠', link: '/' },
+            { text: 'Application Library 📚', link: '/webapps/published/' },
+            { text: 'About coolLabs 👩‍💻👨‍💻', link: '/about/who-we-are.html' },
+            { text: 'Contact 📡', link: '/contact/' },
+/*             { text: 'Blog', link: 'https://dev.to/coollabsio' }, */
             { text: 'Github', link: 'https://github.com/coollabsio/' }
         ],
         sidebar: {
-            '/about/': genSidebarConfig('About us', 'Applications')
+            '/about/': genAboutSidebar('About us and our work'),
+            '/webapps/': genWebappsSidebar('Published Applications 🎉', 'Upcoming Applications 📢')
       }
     },
     plugins: {
@@ -37,25 +40,52 @@ module.exports = {
           }
 }
 }
-function genSidebarConfig (groupA, groupB) {
+function genAboutSidebar (group) {
     return [
       {
-        title: groupA,
+        title: group,
         collapsable: false,
         children: [
-          'vision',
-          'who-we-are'
+          'who-we-are',
+          'how-we-doing-it'
+        ]
+      }
+    ]
+  }
+function genWebappsSidebar (groupa, groupb) {
+    return [
+      {
+        title: groupa,
+        collapsable: false,
+        sidebarDepth: 1,
+        children: [
+          'published/',
+          'published/palinkapp',
+          'published/coolnote'
         ]
       },
       {
-        title: groupB,
+        title: groupb,
         collapsable: false,
+        sidebarDepth: 1,
         children: [
-          'apps/',
-          'apps/palinkapp/',
-          'apps/coolnote/',
-          'apps/coolcode/'
+          'upcoming/',
+          'upcoming/coolpdc',
+          'upcoming/coolcalendar',
+          'upcoming/coolcode',
+          'upcoming/coolanalytics'
         ]
-  }
+      }
     ]
-  }
+}
+function getPubApps () {
+  return [
+    {
+      collapsable: false,
+      sidebarDepth: 1,
+      children: [
+        'published/coolnote'
+      ]
+    }
+  ]
+}

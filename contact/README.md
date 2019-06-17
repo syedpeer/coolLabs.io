@@ -1,14 +1,7 @@
----
-prev: false
-next: false
+# Contact us!
 
----
-# Talk with the cool fellows
+If you have a great idea for a new or for one of our existing application or you just would like to chat with us, do not hesitate!
 
-Feel free to contact us at:
-
-- [Spectrum](https://spectrum.chat/coollabs) - Forum/chat
-
-- [Discord](https://discord.gg/bvS3WhR) - Chat
-
-- [Github](https://github.com/coollabsio) - Github is github
+#### You can reach us anytime on these platforms:
+- [Twitter](https://twitter.com/coollabsio)
+- [Discord](https://discord.gg/bvS3WhR)
