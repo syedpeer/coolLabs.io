@@ -1,12 +1,5 @@
----
-prev: false
-next: false
----
-
 #  coolNote <span class="text-xl">[Try it!](https://note.coollabs.io)</span>
-
-## About
-A simple, but cool note / todo taking application.
+A simple note / todo taking application.
 
 ## Similar app
 - Google Keep

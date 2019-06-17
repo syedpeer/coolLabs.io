@@ -1,6 +1,4 @@
 # coolCode 
-
-## About
 A cool browser based code editor environment.
 
 ## Similar app
@@ -15,11 +13,3 @@ A cool browser based code editor environment.
     - User analytics, like Google Analytics
     - User error tracking, like Track.js
 - And deploy your containerized application to Docker Swarm or Kubernetes with one click!
-
-But with a twist.. All features are developed in house.
-
-## Why?
-
-Most of the services mentioned as example, are pretty good, but in most cases there is a catch, eg: price / privacy.
-
-We have no catch and also we are making these services to be usable independently.

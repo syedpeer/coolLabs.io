@@ -1,6 +1,4 @@
 # coolPDC 
-
-## About
 Personal data change notifier application.
 
 ## Similar app

@@ -1,12 +1,8 @@
 # coolAnalytics 
-
-## About
-
+User analytics of your application.
 
 ## Similar app
 - Google Analytics
 
 ## Features
-
-
-## Security concerns
+- TBD

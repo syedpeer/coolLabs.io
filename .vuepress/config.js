@@ -16,16 +16,18 @@ module.exports = {
     ],
     themeConfig: {
         search: false,
+        logo: '/coollabs.svg',
         nav: [
-            { text: 'Home', link: '/' },
-            { text: 'About', link: '/about/the-vision.html' },
-            { text: 'Application Library 📚', link: '/webapps/' },
-            { text: 'Contact', link: '/contact/' },
+            { text: 'Home 🏠', link: '/' },
+            { text: 'Application Library 📚', link: '/webapps/published/' },
+            { text: 'About coolLabs👩‍💻👨‍💻', link: '/about/who-we-are.html' },
+            { text: 'Contact 📡', link: '/contact/' },
+            { text: 'Blog', link: 'https://dev.to/coollabsio' },
             { text: 'Github', link: 'https://github.com/coollabsio/' }
         ],
         sidebar: {
-            '/about/': genAboutSidebar('About'),
-            '/webapps/': genWebappsSidebar('Application Library 📚'),
+            '/about/': genAboutSidebar('About us and our work'),
+            '/webapps/': genWebappsSidebar('Published Applications 🎉', 'Upcoming Applications 📢')
       }
     },
     plugins: {
@@ -44,23 +46,45 @@ function genAboutSidebar (group) {
         title: group,
         collapsable: false,
         children: [
-          'the-vision',
-          'how-we-doing-it',
-          'who-we-are'
+          'who-we-are',
+          'how-we-doing-it'
         ]
       }
     ]
   }
-  function genWebappsSidebar (group) {
+function genWebappsSidebar (groupa, groupb) {
     return [
       {
-        title: group,
+        title: groupa,
         collapsable: false,
         sidebarDepth: 1,
         children: [
-          '',
-          'upcoming',
+          'published/',
+          'published/palinkapp',
+          'published/coolnote'
+        ]
+      },
+      {
+        title: groupb,
+        collapsable: false,
+        sidebarDepth: 1,
+        children: [
+          'upcoming/',
+          'upcoming/coolpdc',
+          'upcoming/coolcode',
+          'upcoming/coolanalytics'
         ]
       }
     ]
-  }
+}
+function getPubApps () {
+  return [
+    {
+      collapsable: false,
+      sidebarDepth: 1,
+      children: [
+        'published/coolnote'
+      ]
+    }
+  ]
+}

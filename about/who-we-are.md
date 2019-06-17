@@ -1,8 +1,7 @@
 # Who we are? 👩‍💻👨‍💻
 
-We are just some random developers from Hungary with a simple [vision](the-vision.html).
+We are just 2 developers from Hungary.
+Unfortunately, we are doing this beside our day-time job.
+<div class="text-2xl py-4 text-center">But if we could do it one day in full time, it will be 💥</div>
 
-Unfortunately, we cannot do this in full-time at the moment. We have a day-time job.
-<div class="text-3xl py-10 text-center">But when we could, it will be 💥</div>
-
-You can help us to reach it by supporting our work via [Paypal](https://paypal.me/andrasbacsai).
+You can help us to reach this goal by supporting our work via [Paypal](https://paypal.me/andrasbacsai).
