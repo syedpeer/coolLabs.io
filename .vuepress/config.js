@@ -20,9 +20,9 @@ module.exports = {
         nav: [
             { text: 'Home 🏠', link: '/' },
             { text: 'Application Library 📚', link: '/webapps/published/' },
-            { text: 'About coolLabs👩‍💻👨‍💻', link: '/about/who-we-are.html' },
+            { text: 'About coolLabs 👩‍💻👨‍💻', link: '/about/who-we-are.html' },
             { text: 'Contact 📡', link: '/contact/' },
-            { text: 'Blog', link: 'https://dev.to/coollabsio' },
+/*             { text: 'Blog', link: 'https://dev.to/coollabsio' }, */
             { text: 'Github', link: 'https://github.com/coollabsio/' }
         ],
         sidebar: {
