@@ -36,7 +36,7 @@ home: true
         <p class="mb-2">Every user could and should shape our applications to make them perfect!</p>
         <p><a href="/contact" @click.prevent="$router.push('/contact')">Contact us anytime</a> if you have a spark!</p>
       </div>
-      <div class="w-full md:mb-0 py-4 text-center">
+      <div class="w-full md:mb-0 py-4 pb-10 text-center">
         <a href="/webapps/published" @click.prevent="$router.push('/webapps/published')" class="button border bg-white text-black text-center py-2 px-4 w-full text-2xl rounded hover:bg-coolnote hover:text-white">Application Library 📚</a>
       </div>
     </div>
