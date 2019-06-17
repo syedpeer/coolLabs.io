@@ -5,4 +5,4 @@ User analytics of your application.
 - Google Analytics
 
 ## Features
-- TBD
+- To be defined

@@ -5,4 +5,4 @@ A calendar application to be aware of important things.
 - Google Calendar 
 
 ## Features
-- TBD
+- To be defined
