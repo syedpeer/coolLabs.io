@@ -20,13 +20,13 @@ module.exports = {
         nav: [
             { text: 'Home 🏠', link: '/' },
             { text: 'Application Library 📚', link: '/webapps/published/' },
-            { text: 'About coolLabs 👩‍💻👨‍💻', link: '/about/who-we-are.html' },
+            { text: 'About us', link: '/about/who-we-are.html' },
             { text: 'Contact 📡', link: '/contact/' },
 /*             { text: 'Blog', link: 'https://dev.to/coollabsio' }, */
             { text: 'GitHub', link: 'https://github.com/coollabsio/' }
         ],
         sidebar: {
-            '/about/': genAboutSidebar('About us and our work'),
+            '/about/': genAboutSidebar('About us'),
             '/webapps/': genWebappsSidebar('Published Applications 🎉', 'Upcoming Applications 📢')
       }
     },
@@ -56,24 +56,24 @@ function genWebappsSidebar (groupa, groupb) {
     return [
       {
         title: groupa,
+        path: '/webapps/published/',
         collapsable: false,
-        sidebarDepth: 1,
+        sidebarDepth: 2,
         children: [
-          'published/',
-          'published/palinkapp',
-          'published/coolnote'
+          '/webapps/published/palinkapp',
+          '/webapps/published/coolnote'
         ]
       },
       {
         title: groupb,
+        path: '/webapps/upcoming/',
         collapsable: false,
         sidebarDepth: 1,
         children: [
-          'upcoming/',
-          'upcoming/coolpdc',
-          'upcoming/coolcalendar',
-          'upcoming/coolcode',
-          'upcoming/coolanalytics'
+          '/webapps/upcoming/coolpdc',
+          '/webapps/upcoming/coolcalendar',
+          '/webapps/upcoming/coolcode',
+          '/webapps/upcoming/coolanalytics'
         ]
       }
     ]
