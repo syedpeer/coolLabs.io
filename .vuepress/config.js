@@ -34,8 +34,8 @@ module.exports = {
       '@vuepress/pwa': {
             serviceWorker: true,
             updatePopup: {
-              message: "We updated the content of our site!",
-              buttonText: "Download the latest!"
+              message: "We refreshed our cool site.",
+              buttonText: "Load the latest version!"
             }
           }
 }
