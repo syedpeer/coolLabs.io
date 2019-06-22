@@ -1,4 +1,4 @@
-# Upcoming Applications 📢
+# Upcoming Apps 📢
 
 - [coolPDC](coolpdc.html) - Personal data change notifier application.
 - [coolCalendar](coolcalendar.html) - A calendar application to be aware of important things.
