@@ -27,7 +27,7 @@ module.exports = {
         ],
         sidebar: {
             '/about/': genAboutSidebar('About us'),
-            '/webapps/': genWebappsSidebar('Published Applications 🎉', 'Upcoming Applications 📢')
+            '/webapps/': genWebappsSidebar('Published 🎉', 'Upcoming 📢')
       }
     },
     plugins: {
