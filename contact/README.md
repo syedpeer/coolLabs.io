@@ -1,11 +1,12 @@
 # Contact 📡
 
-### The coolFellows love to hear your opinion!
+### We ❤ to hear your opinion!
+<br/>
 
 <br/>
 
-### Twitter: [@coollabsio](https://twitter.com/coollabsio)
+<span class="text-xl"><span class="font-bold">🐤 Twitter:</span> [@coollabsio](https://twitter.com/coollabsio)</span>
 
-### [Our Discord server](https://discord.gg/bvS3WhR)
+<span class="text-xl"><span class="font-bold">💬 Chat:</span> [Discord](https://discord.gg/bvS3WhR)</span>
 
-### Bugreports: [Github](https://github.com/coollabsio)
+<span class="text-xl"><span class="font-bold">🐛 Bugreports:</span> [Github](https://github.com/coollabsio)</span>

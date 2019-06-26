@@ -1,5 +1,5 @@
-# How we doing it? 👷
+# How we do it? 👨‍🏭
 
-With smart and hard work! More details are coming soon in a format of a blog.
+With smart and hard work!
 
-<!-- You can read it in our blog posts on [coolLabs @ dev.to](https://dev.to/coollabs.io) -->
+There will soon be a series of blog posts about this on our [DEV.to](https://dev.to/coollabsio) page. Follow us there!
