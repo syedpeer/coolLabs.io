@@ -1,8 +1,9 @@
 ---
 home: true
+footer: Made with ⌨️, 🖱️ and Vuepress
 ---
 
-<section class="bg-coolnote text-white px-2 md:px-0">
+<section class="bg-coolnote text-white px-2 md:px-0 pb-6">
       <div class="container mx-auto flex flex-wrap h-full items-center py-8">
         <img src="/coollabs.svg" height="150" width="150" class="mx-auto mb-4 md:mx-0 md:mb-0" style="border:none !important;">
         <div class="w-full md:flex-1 px-6 text-center md:text-left">
@@ -41,4 +42,14 @@ home: true
       </div>
     </div>
   </div>
+</section>
+
+<section class="bg-white">
+    <div class="container mx-auto px-4 pt-12 pb-8 ">
+        <h3 class="text-center mb-4 text-2xl font-semibold">Do you know how we are working?</h3>
+        <div class="flex justify-center">
+        <img src="/programming.svg" class="px-10" width="800"  alt="a guy using too much displays, that's sure">
+        </div>
+        <h3 class="text-center text-base my-4 font-sans text-gray-400 font-semibold ">Like this. Incredible, right? 🤓</h3>
+    </div>
 </section>
