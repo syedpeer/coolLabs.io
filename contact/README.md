@@ -1,6 +1,6 @@
 # Contact 📡
 
-### We ❤ to hear your opinion!
+### We ♥️ to hear your opinion!
 <br/>
 
 <br/>
