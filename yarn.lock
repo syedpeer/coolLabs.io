@@ -674,10 +674,10 @@
     lodash "^4.17.11"
     to-fast-properties "^2.0.0"
 
-"@coollabsio/analytics@^0.0.17":
-  version "0.0.17"
-  resolved "https://registry.yarnpkg.com/@coollabsio/analytics/-/analytics-0.0.17.tgz#f942cb96f6f21407c421a6ae9be0bf52b9600426"
-  integrity sha512-JEoP+yCkts//XH0S6AUG4dxzkRsu1X8vYN54BOnlxe42wGo4HK/TB3JpBNyuwCIhVoIlFqj5o/bl8WNVqWbE0g==
+"@coollabsio/analytics@^0.0.18":
+  version "0.0.18"
+  resolved "https://registry.yarnpkg.com/@coollabsio/analytics/-/analytics-0.0.18.tgz#8f640e07d4032b08405e1a648f5e874e980c1fd9"
+  integrity sha512-3FpHgd4FRLBgwPZsDPaoO+K6uWBb9j7p7cA2GHfrJelZyb+IQPRnM0zGcyYTR97VVLQz/qwyCsLpEdV8sxrhyw==
 
 "@hapi/address@2.x.x":
   version "2.0.0"

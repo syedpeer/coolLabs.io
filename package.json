@@ -16,6 +16,6 @@
     "vuepress": "^1.0.2"
   },
   "dependencies": {
-    "@coollabsio/analytics": "^0.0.17"
+    "@coollabsio/analytics": "^0.0.18"
   }
 }
