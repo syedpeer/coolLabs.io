@@ -674,6 +674,11 @@
     lodash "^4.17.11"
     to-fast-properties "^2.0.0"
 
+"@coollabsio/analytics@^0.0.17":
+  version "0.0.17"
+  resolved "https://registry.yarnpkg.com/@coollabsio/analytics/-/analytics-0.0.17.tgz#f942cb96f6f21407c421a6ae9be0bf52b9600426"
+  integrity sha512-JEoP+yCkts//XH0S6AUG4dxzkRsu1X8vYN54BOnlxe42wGo4HK/TB3JpBNyuwCIhVoIlFqj5o/bl8WNVqWbE0g==
+
 "@hapi/address@2.x.x":
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/@hapi/address/-/address-2.0.0.tgz#9f05469c88cb2fd3dcd624776b54ee95c312126a"
@@ -6702,10 +6707,10 @@ svgo@^1.0.0:
     unquote "~1.1.1"
     util.promisify "~1.0.0"
 
-tailwindcss@^1.0.4:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-1.0.4.tgz#98f186c8142bfb292bcbfcb53b84df369f11ef91"
-  integrity sha512-+1NNPW+U83k6DV/uUOnsfmX86Cfb8N87fiuN0cX0mEi2sZUpglLzZqlXtP8FD9Hlne5H1UhlS8tajz+F9SSxjA==
+tailwindcss@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-1.0.5.tgz#5145fd61f251be06a77748819e12fb126914095d"
+  integrity sha512-e5edrSKqNOvWAVEutXN5czeJSXjQQxO7zNN4RDd5vQF/JTxnKdndcMFIC6p6YkRvcGFKPCZ/0rY1zZvPeq9V4A==
   dependencies:
     autoprefixer "^9.4.5"
     bytes "^3.0.0"
