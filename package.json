@@ -11,11 +11,11 @@
     "build": "vuepress build"
   },
   "devDependencies": {
-    "@vuepress/plugin-pwa": "^1.0.2",
-    "tailwindcss": "^1.0.5",
-    "vuepress": "^1.0.2"
+    "@vuepress/plugin-pwa": "^1.0.3",
+    "tailwindcss": "^1.1.2",
+    "vuepress": "^1.0.3"
   },
   "dependencies": {
-    "@coollabsio/analytics": "^0.0.19"
+    "@coollabsio/analytics": "^0.0.23"
   }
 }

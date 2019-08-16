@@ -8,27 +8,27 @@ module.exports = {
         rel: 'icon',
         href: '/coollabs.svg'
       }],
-        ['link', {
-            rel: 'stylesheet',
-            type: 'text/css',
-            href: 'https://fonts.googleapis.com/css?family=Miriam+Libre'
-        }]
+      ['link', {
+        rel: 'stylesheet',
+        type: 'text/css',
+        href: 'https://fonts.googleapis.com/css?family=Oxygen&display=swap'
+    }]
     ],
     themeConfig: {
         search: false,
-/*         logo: '/coollabs.svg', */
+        /* logo: '/coollabs.svg', */
         nav: [
             { text: 'Home 🏠', link: '/' },
+            { text: 'About', link: '/about' },
             { text: 'Application Library 📚', link: '/webapps/published/' },
-            { text: 'About us', link: '/about/who-we-are.html' },
             { text: 'Contact 📡', link: '/contact/' },
-/*             { text: 'Blog', link: 'https://dev.to/coollabsio' }, */
+            { text: 'Blog', link: 'https://dev.to/coollabsio' },
             { text: 'GitHub', link: 'https://github.com/coollabsio/' }
         ],
-        sidebar: {
+       /*  sidebar: {
             '/about/': genAboutSidebar('About us'),
             '/webapps/': genWebappsSidebar('Published Apps 🎉', 'Upcoming Apps 📢')
-      }
+      } */
     },
     plugins: {
       '@vuepress/pwa': {
