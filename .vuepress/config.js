@@ -4,9 +4,10 @@ module.exports = {
     },
     title: 'coolLabs',
     head: [
+      ['link', { rel: 'manifest', href: '/manifest.json' }],
       ['link', {
         rel: 'icon',
-        href: '/coollabs.svg'
+        href: '/favicon.ico'
       }],
       ['link', {
         rel: 'stylesheet',
@@ -16,7 +17,7 @@ module.exports = {
     ],
     themeConfig: {
         search: false,
-        logo: '/coollabs.svg',
+        logo: '/images/icons/android-chrome-192x192.png',
         nav: [
             { text: 'Home 🏠', link: '/' },
             { text: 'About us 👥', link: '/about' },
