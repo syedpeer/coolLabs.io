@@ -1,3 +1,7 @@
+---
+prev: ./
+---
+
 # PalinkApp <span class="text-xl">[Try it!](https://palinkapp.coollabs.io/#/)</span>
 [Pálinka](https://en.wikipedia.org/wiki/P%C3%A1linka) alcohol by volume calculator.
 

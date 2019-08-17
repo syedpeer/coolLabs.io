@@ -48,25 +48,60 @@ a, p a code
     max-width 740px !important
     padding 2rem !important
 
+.sidebar
+    background-color $backgroundColor !important
+    border none !important
+    @media screen and (min-width: $MQMobile)
+      background-color inherit !important 
+
+.sidebar-link
+    color inherit !important
+
+.sidebar-link:hover
+    color green !important
+
+.nav-links
+    color white !important
+    background-color $backgroundColor !important
+
+.sidebar .nav-links
+    border-bottom 3px solid #f7fafc !important
+    
+.sidebar-links
+    color white !important
+    background-color $backgroundColor !important
+    @media screen and (min-width: $MQMobile)
+        color inherit !important
+        background-color white !important
+
 .sidebar-button
     color white !important
 
 .navbar  
     border-bottom none !important
     background-color $backgroundColor !important
+    height 4rem
+    box-shadow 0px 1px 2px #22292f
 
 .navbar .links
     background-color $backgroundColor !important
+    font-size 1.1em !important
     color white !important
+    top 0.8rem !important
 
 .nav-links a.router-link-active
     color inherit !important
 
+.sidebar .nav-links a
+    border-bottom 2px solid transparent !important
+
 .sidebar .nav-links a:hover
-    color green !important
-    
+    color white !important
+    border-bottom 2px solid #009f00 !important
+   
 .nav-links a:hover
     color white !important
+    transition 0.1s
 
 .dropdown-item a.nav-link
     color black
@@ -77,15 +112,22 @@ a, p a code
 li.dropdown-item a.nav-link.router-link-exact-active.router-link-active
     color green !important
 .navbar .site-name
+    top 0.1rem !important
     font-weight 600 !important
     color white !important
-
+/* 
 .nav-link, .repo-link , .nav-links .dropdown-title, .sidebar-links
     font-family $secondaryFont !important
 
 .page
-    font-family $secondaryFont
+    font-family $secondaryFont */
 
 .sw-update-popup>button
     background-color $backgroundColor !important
     color white !important
+.btn
+    transition 0.2s
+    border-color #22292f !important
+.btn:hover
+    transition 0.2s
+    border-color #009f00 !important

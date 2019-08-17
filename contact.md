@@ -1,6 +1,6 @@
 # Contact 📡
 
-### We ♥️ to hear your opinion!
+### We ❤️️ to hear your opinion!
 <br/>
 
 <br/>
@@ -11,4 +11,4 @@
 
 <span class="text-xl font-bold">💬 Chat: [Discord](https://discord.gg/bvS3WhR)</span>
 
-<span class="text-xl font-bold">🐛 Bugreports: [Github](https://github.com/coollabsio)</span>
+<span class="text-xl font-bold">🐛 Bugreports: [GitHub](https://github.com/coollabsio)</span>
