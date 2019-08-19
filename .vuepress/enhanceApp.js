@@ -1,4 +1,4 @@
-import CoolAnalytics from '@coollabsio/analytics'
+/* import CoolAnalytics from '@coollabsio/analytics'
 
 export default ({ router }) => {
     const analytics = new CoolAnalytics({
@@ -7,4 +7,4 @@ export default ({ router }) => {
     })
 
     router.afterEach((to) => { analytics.log({ nextPage: to.fullPath }) })
-}
+} */
