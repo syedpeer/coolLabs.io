@@ -26,8 +26,6 @@ meta:
 
 Our applications & services are independent of the [big five](https://gizmodo.com/c/goodbye-big-five) or any other 3rd parties.
 
-The only exception at the moment, is [Stripe](https://stripe.com/).
-
 <br/>
 
 **We code everything with our bare hands** in [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) style.
